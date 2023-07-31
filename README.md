@@ -1,2 +1,2 @@
-# Travelmania
-Travelmania is an Travel website project created using Html5, Css3, Bootstrap5 &amp; Sass.
+# RajTravels
+ created using Bootstrap5 and Sass
